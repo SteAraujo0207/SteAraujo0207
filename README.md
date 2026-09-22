@@ -21,7 +21,14 @@
 
  <img src="./assets/icone.png" width="22px" align="center"> ## Sobre mim
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&color=2AA9E0&center=true&vCenter=true&width=650&lines=nome+:+Stephany+Araujo+cargo+_+atual+:+Estagiária+Analista+em+People+ +Excellence+objetivo+:+Automatizar+tarefas+repetitivas+,+análise+de+dados+,+resolver+problemas" alt="Typing SVG" />
+## <img src="./assets/banner.svg" width="20%"/> Sobre mim
+
+```yaml
+nome: Stephanny Araujo
+Cursando: Ciência da Computação
+cargo_atual: Estagiária Analista em People Excellence
+objetivo: Automatizar tarefas repetitivas, análise de dados, resolver problemas
+```
 
 -  Atualmente aplicando lógica de programação em projetos de **automação, controle de acesso e detecção de fraudes**
 -  Estudando **SQL avançado, Python para dados e boas práticas de backend**
