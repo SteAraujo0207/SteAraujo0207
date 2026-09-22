@@ -1,5 +1,5 @@
 <p align="center">
- <img src= "link da imagem ou do caminho" alt="banner do meu perfil" width="100%">
+ <img src= ""C:\Users\steph\OneDrive\Documentos\readme\cc96cda25549eccee33a770e65a97491.jpg"" alt="banner do meu perfil" width="100%">
 </p>
 
 <br>
