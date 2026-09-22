@@ -53,15 +53,23 @@ objetivo: Automatizar tarefas repetitivas, análise de dados, resolver problemas
   <img src="URL_DO_SEU_GIF.gif" width="150"/>
 </div>
 
-##  Estatísticas
+ <img src="./assets/icone.png" width="22px" align="center"> Projetos em destaque
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SteAraujo0207&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1622&title_color=5DC9F1&icon_color=7ED957&text_color=c9d6e3" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SteAraujo0207&theme=tokyonight&hide_border=true&background=0b1622&stroke=5DC9F1&ring=7ED957&fire=7ED957&currStreakLabel=5DC9F1" width="49%" />
+<a href="https://github.com/SteAraujo0207/sistema-controle-acesso">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=sistema-controle-acesso&theme=tokyonight&hide_border=true&bg_color=0b1622&title_color=5DC9F1&text_color=c9d6e3" />
+</a>
+<a href="https://github.com/SteAraujo0207/Deteccao-fraudes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=Deteccao-fraudes&theme=tokyonight&hide_border=true&bg_color=0b1622&title_color=5DC9F1&text_color=c9d6e3" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteAraujo0207&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1622&title_color=5DC9F1&text_color=c9d6e3" width="49%" />
+<a href="https://github.com/SteAraujo0207/projeto-analise-logs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=projeto-analise-logs&theme=tokyonight&hide_border=true&bg_color=0b1622&title_color=5DC9F1&text_color=c9d6e3" />
+</a>
+<a href="https://github.com/SteAraujo0207/Sistema-Gerenciamento-Usuario-incompleto-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=Sistema-Gerenciamento-Usuario-incompleto-&theme=tokyonight&hide_border=true&bg_color=0b1622&title_color=5DC9F1&text_color=c9d6e3" />
+</a>
 
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FA3B1,100:5DC9F1&height=3&width=100%25" width="100%"/><br>🫧 　 💧 　 🫧 　 ☁️ 　 🫧</div>
