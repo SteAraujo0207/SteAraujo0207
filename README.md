@@ -12,5 +12,5 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/foco-dados%20%26%20automa%C3%A7%C3%A3o-FFFFFF?style=for-the-badge&labelColor=FF861E" />
+  <img src="https://img.shields.io/badge/foco-dados%20%26%20automa%C3%A7%C3%A3o-FF861E?style=for-the-badge&labelColor=D9D9D9&labelColor=D9D9D9" />
 </div>
