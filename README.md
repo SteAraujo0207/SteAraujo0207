@@ -30,10 +30,12 @@ cargo_atual: Estagiária Analista em People Excellence
 objetivo: Automatizar tarefas repetitivas, análise de dados, resolver problemas
 ```
 
+```yaml
 -  Atualmente aplicando lógica de programação em projetos de **automação, controle de acesso e detecção de fraudes**
 -  Estudando **SQL avançado, Python para dados e boas práticas de backend**
 -  Buscando oportunidades como **Analista de Dados / Desenvolvedor(a) Jr / Automação**
 -  Fun fact: comecei na área de RH, mas o "bug" da lógica me trouxe pra cá
+```
 
 ##  Stack & Tecnologias
 
