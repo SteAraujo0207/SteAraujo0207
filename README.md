@@ -19,13 +19,16 @@
   <img src="URL_DO_SEU_GIF.gif" width="150"/>
 </div>
 
-<div style="font-family: 'Orbitron', sans-serif; color: #2AA9E0;">
-  <h2>
-    <img src="./assets/msn-blue.svg" width="20" height="20" alt="Sobre mim" style="vertical-align: middle; margin-right: 8px;"> 
-    Sobre mim
-  </h2> 
-  <p><strong>Nome:</strong> Stephanny Araujo</p> 
-  <p><strong>Cargo atual:</strong> Estagiária Analista em People Excellence</p> 
-  <p><strong>Objetivo:</strong> Automatizar tarefas repetitivas, analisar dados e resolver problemas.</p>
-</div>
+ <img src="./assets/icone.png" width="22px" align="center"> Sobre mim
+
+```
+nome: Ste Araujo
+cargo_atual: Estagiária Analista em People Excellence
+objetivo: Automatizar tarefas repetitivas, análise de dados, resolver problemas
+```
+
+-  Atualmente aplicando lógica de programação em projetos de **automação, controle de acesso e detecção de fraudes**
+-  Estudando **SQL avançado, Python para dados e boas práticas de backend**
+-  Buscando oportunidades como **Analista de Dados / Desenvolvedor(a) Jr / Automação**
+-  Fun fact: comecei na área de RH, mas o "bug" da lógica me trouxe pra cá
 
