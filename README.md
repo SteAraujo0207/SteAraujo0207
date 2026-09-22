@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/4AsftLA4C alt="Banner do meu perfil" width="100%">
+  <img src="PK="Banner do meu perfil" width="100%">
 </p>
 <br>
 
