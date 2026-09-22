@@ -19,7 +19,7 @@
   <img src="URL_DO_SEU_GIF.gif" width="150"/>
 </div>
 
- <img src="./assets/icone.png" width="22px" align="center"> ## Sobre mim
+ <img src="./assets/icone.png" width="22px" align="center">  Sobre mim
 
 
 ```yaml
