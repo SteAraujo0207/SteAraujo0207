@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="img./cc96cda25549eccee33a770e65a97491.jpg"
-       alt="Banner do meu perfil"
-       width="100%">
+  <img src="https://pin.it/4AsftLA4C alt="Banner do meu perfil" width="100%">
 </p>
 <br>
 
