@@ -1,52 +1,157 @@
+<!-- ==================== BANNER FRUTIGER AERO ==================== -->
 <div align="center">
+  <img src="https://i.imgur.com/9Xj4H3e.gif" width="100%" alt="Banner Frutiger Aero" />
+</div>
 
-<!-- BANNER DE BOAS-VINDAS -->
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=WELCOME!;Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
-</a>
-
-<!-- EFEITO DE BOLHAS FRUTIGER AERO -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br>
-
-<!-- FAIXA DE STATUS (MUITO "FRUTIGER AERO") -->
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/Status-Em_Transi%C3%A7%C3%A3o_de_Carreira-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Status">
-</a>
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/Foco-Dados_%26_Automa%C3%A7%C3%A3o-32CD32?style=for-the-badge&logo=python&logoColor=white" alt="Foco">
-</a>
+<!-- ==================== PEIXINHO ATRAVESSANDO A TELA ==================== -->
+<div align="center">
+  <img src="https://media.tenor.com/8g2Wn4z7x0AAAAi/clownfish-fish.gif" width="60" alt="Peixinho" align="left" />
+  <img src="https://media.tenor.com/8g2Wn4z7x0AAAAi/clownfish-fish.gif" width="60" alt="Peixinho" align="right" />
+</div>
 
 <br>
 
-<!-- TECNOLOGIAS -->
-##  Tecnologias
+<h1 align="center">WELCOME!</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
+<div align="center">
+  <a href="https://github.com/SteAraujo0207">
+    <img src="https://img.shields.io/badge/Status-Em_Transi%C3%A7%C3%A3o_de_Carreira-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Status">
+  </a>
+  <a href="https://github.com/SteAraujo0207">
+    <img src="https://img.shields.io/badge/Foco-Dados_%26_Automa%C3%A7%C3%A3o-32CD32?style=for-the-badge&logo=python&logoColor=white" alt="Foco">
+  </a>
+</div>
 
-<!-- SOBRE MIM -->
-##  Sobre Mim
+<br>
 
-Profissional com experiência em **People Excellence** que está migrando para a área de **Tecnologia e Dados**. Busco oportunidades onde eu possa aplicar minha paixão por resolver problemas, automatizar processos e construir soluções que gerem impacto real.
+---
+
+<!-- ==================== SEPARADOR COM BOLHAS (Estilo do seu) ==================== -->
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/bubbles.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/water.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/bubbles.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/water.png" width="25"/>
+</div>
+
+<!-- ==================== SOBRE MIM ==================== -->
+<h2> Sobre mim</h2>
+
+Profissional com experiência em **People Excellence** em transição para a área de **Tecnologia e Dados**. Busco oportunidades onde eu possa aplicar minha paixão por resolver problemas, automatizar processos e construir soluções que gerem impacto real.
 
 Utilizo este espaço para compartilhar meus estudos, projetos pessoais e experimentos — especialmente nas áreas de **análise de dados, automação e desenvolvimento**.
 
-**Atualmente:** Estudando e desenvolvendo projetos práticos para consolidar meus conhecimentos.
+**Atualmente:** Estudando e desenvolvendo projetos práticos para consolidar meus conhecimentos em Python, SQL, JavaScript, VBA e Java.
 
 <br>
 
-<!-- DECORAÇÃO FRUTIGER AERO -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50" />
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/8g2Wn4z7x0AAAAi/clownfish-fish.gif" width="50" alt="Peixinho" />
+  <img src="https://media.tenor.com/8g2Wn4z7x0AAAAi/clownfish-fish.gif" width="50" alt="Peixinho" />
+  <img src="https://media.tenor.com/8g2Wn4z7x0AAAAi/clownfish-fish.gif" width="50" alt="Peixinho" />
+</div>
 
+---
+
+<!-- ==================== SEPARADOR ==================== -->
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/bubbles.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/water.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/bubbles.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/water.png" width="25"/>
+</div>
+
+<!-- ==================== STACK & TECNOLOGIAS (Mantendo seus ícones) ==================== -->
+<h2>🛠️ Stack & Tecnologias</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA">
+  <img src="https://img.shields.io/badge/Excel_Avan%C3%A7ado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Avançado">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</div>
+
+---
+
+<!-- ==================== SEPARADOR ==================== -->
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/bubbles.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/water.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/bubbles.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/water.png" width="25"/>
+</div>
+
+<!-- ==================== ESTATÍSTICAS ==================== -->
+<h2> Estatísticas</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SteAraujo0207&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteAraujo0207&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+<!-- ==================== SEPARADOR ==================== -->
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/bubbles.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/water.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/bubbles.png" width="25"/>
+  <img src="https://img.icons8.com/color/48/000000/water.png" width="25"/>
+</div>
+
+<!-- ==================== PROJETOS EM DESTAQUE ==================== -->
+<h2> Projetos em destaque</h2>
+
+<div align="center">
+  <a href="LINK_DO_SEU_REPOSITORIO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=NOME_DO_REPO_1&theme=radical" />
+  </a>
+  <a href="LINK_DO_SEU_REPOSITORIO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=NOME_DO_REPO_2&theme=radical" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="LINK_DO_SEU_REPOSITORIO_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=NOME_DO_REPO_3&theme=radical" />
+  </a>
+  <a href="LINK_DO_SEU_REPOSITORIO_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=NOME_DO_REPO_4&theme=radical" />
+  </a>
+</div>
+
+---
+
+<!-- ==================== CONTATO ==================== -->
+<div align="center">
+  <h2>💬 Vamos conversar!</h2>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+<br>
+
+<!-- ==================== PEIXINHO FINAL ==================== -->
+<div align="center">
+  <img src="https://media.tenor.com/8g2Wn4z7x0AAAAi/clownfish-fish.gif" width="80" alt="Peixinho" />
 </div>
