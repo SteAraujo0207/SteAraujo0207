@@ -14,3 +14,5 @@
 <div align="center">
   <img src="https://img.shields.io/badge/foco-dados%20%26%20automa%C3%A7%C3%A3o-FF861E?style=for-the-badge&labelColor=D9D9D9&labelColor=D9D9D9" />
 </div>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FA3B1,100:5DC9F1&height=3&width=100%25" width="100%"/><br>🫧 　 💧 　 🫧 　 ☁️ 　 🫧</div>
