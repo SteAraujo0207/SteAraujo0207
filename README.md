@@ -19,10 +19,10 @@
   <img src="URL_DO_SEU_GIF.gif" width="150"/>
 </div>
 
- <img src="./assets/icone.png" width="22px" align="center"> Sobre mim
+ <img src="./assets/icone.png" width="22px" align="center"> ## Sobre mim
 
 ```
-nome: Ste Araujo
+nome: Stephany Araujo
 cargo_atual: Estagiária Analista em People Excellence
 objetivo: Automatizar tarefas repetitivas, análise de dados, resolver problemas
 ```
@@ -31,4 +31,18 @@ objetivo: Automatizar tarefas repetitivas, análise de dados, resolver problemas
 -  Estudando **SQL avançado, Python para dados e boas práticas de backend**
 -  Buscando oportunidades como **Analista de Dados / Desenvolvedor(a) Jr / Automação**
 -  Fun fact: comecei na área de RH, mas o "bug" da lógica me trouxe pra cá
+
+##  Stack & Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,javascript,java,git,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel_Avan%C3%A7ado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
 
