@@ -21,7 +21,6 @@
 
  <img src="./assets/icone.png" width="22px" align="center"> ## Sobre mim
 
-## <img src="./assets/banner.svg" width="20%"/> Sobre mim
 
 ```yaml
 nome: Stephanny Araujo
