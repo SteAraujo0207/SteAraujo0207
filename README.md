@@ -12,7 +12,8 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/foco-dados%20%26%20automa%C3%A7%C3%A3o-FF861E?style=for-the-badge&labelColor=D9D9D9&labelColor=D9D9D9" />
+<img src="https://img.shields.io/badge/foco-00FF7F?style=for-the-badge&labelColor=00FF7F&color=00FF7F" />
+<img src="https://img.shields.io/badge/dados%20%26%20automa%C3%A7%C3%A3o-FF861E?style=for-the-badge&labelColor=FF861E&color=FF861E" />
 </div>
 
 <div align="center">
@@ -43,7 +44,7 @@ objetivo: Automatizar tarefas repetitivas, análise de dados, resolver problemas
 <br><br>
 
 <img src="https://img.shields.io/badge/VBA-FF6B00?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel_Avan%C3%A7ado-39FF14?style=for-the-badge&logo=microsoftexcel&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel_Avan%C3%A7ado-00FF7F?style=for-the-badge&logo=microsoftexcel&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-FF6B00?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
