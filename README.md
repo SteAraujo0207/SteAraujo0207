@@ -1,52 +1,58 @@
 <div align="center">
 
-  <!-- Banner / Imagem Header (Para simular o visual de vidro/água no topo) -->
-  <img src="https://via.placeholder.com/800x200/081b26/ffffff?text=WELCOME!" alt="Welcome Banner" width="100%" />
+  <!-- Banner Frutiger Aero "WELCOME!" -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:00f2fe&height=220&section=header&text=WELCOME!&fontSize=65&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Welcome Banner" />
 
-  <!-- Avatar e Nome de Usuário -->
-  <br />
-  <img src="https://github.com/SteAraujo0207.png" width="120px" style="border-radius: 50%;" alt="Foto de Perfil" />
-  <h2>SteAraujo0207</h2>
+  <!-- Peixinho Palhaço Animado -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1OWxwaWVwZ3R6ZXV6ZzRtN2Uya2szc25tNG8xNmthdjFxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13O3e6aVInE480/giphy.gif" width="70px" alt="Peixinho Palhaço" />
+  </p>
 
-  <!-- Ícones das Tecnologias -->
-  <p>
+  <h3>✨ Frutiger Aero Tech Hub ✨</h3>
+  
+  <p><i>Data-driven · Code-powered · Process-focused</i></p>
+
+  <!-- Badges das Linguagens/Tecnologias estilo Frutiger Aero -->
+  <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openid-initiative&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </p>
 
 </div>
 
-<hr />
+<br/>
 
-###  Popular repositories
+---
 
-<!-- Exemplo de como destacar repositórios usando Cards em HTML/Markdown -->
+### 🫧 Sobre Mim
 
-<a href="https://github.com/SteAraujo0207/sistema-controle-acesso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=sistema-controle-acesso&theme=cyan&show_owner=false" alt="sistema-controle-acesso" />
-</a>
+>  **Objetivo:** Transição de carreira para a área de **Dados / Automação / TI**.
 
-<br/><br/>
+-  **Cargo Atual:** Analista em People Excellence
+-  **Diferencial:** Uno a visão estratégica de processos e pessoas com a lógica de programação.
+-  **Gosto de:** Automatizar tarefas repetitivas, analisar dados complexos e resolver problemas reais.
+-  **Momento Atual:** Aplicando lógica de programação em projetos de automação, controle de acesso e detecção de fraudes.
+-  **Estudando:** SQL Avançado, Python focado em dados e boas práticas de Backend.
+-  **Buscando Oportunidades como:** Analista de Dados / Desenvolvedora Jr / Analista de Automação.
+-  **Fun Fact:** Comecei na área de RH, mas o *"bug"* da lógica e da tecnologia me capturou para cá!
 
-<a href="https://github.com/SteAraujo0207/Sistema-Gerenciamento-Usuario-incompleto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SteAraujo0207&repo=Sistema-Gerenciamento-Usuario-incompleto&theme=cyan&show_owner=false" alt="Sistema-Gerenciamento-Usuario" />
-</a>
+---
 
-<hr />
+###  Vamos conversar?
 
-<!-- Subtítulo / Slogan -->
-<div align="right">
-  <i>Data-driven, Code-powered, User-focused.</i>
+Se quiser trocar uma ideia sobre dados, automação ou novas oportunidades, fique à vontade para entrar em contato:
+
+<p align="left">
+  <a href="mailto:stephannyaraujocoutinho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-stephannyaraujocoutinho%40gmail.com-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SteAraujo0207&show_icons=true&theme=cyan&hide_border=true&title_color=00c6ff&icon_color=00f2fe&text_color=ffffff&bg_color=0f2027" alt="GitHub Stats" />
 </div>
-
-###  Contribuições
-
-<!-- Gráfico de Contribuições (Snake Game / Activity Graph) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SteAraujo0207/SteAraujo0207/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SteAraujo0207/SteAraujo0207/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SteAraujo0207/SteAraujo0207/output/github-contribution-grid-snake.svg">
-</picture>
