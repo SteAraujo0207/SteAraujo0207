@@ -42,9 +42,9 @@ objetivo: Automatizar tarefas repetitivas, análise de dados, resolver problemas
 
 <br><br>
 
-<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel_Avan%C3%A7ado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/VBA-FF6B00?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel_Avan%C3%A7ado-39FF14?style=for-the-badge&logo=microsoftexcel&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-FF6B00?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
 
