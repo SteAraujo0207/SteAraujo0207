@@ -7,6 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=2FB6E8&center=true&vCenter=true&width=650&lines=%3C+Ste+Araujo+%3E;Bem_Vindo!;Welcome!;Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Python+%2B+SQL" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="./assets/peixinho.svg" alt="Peixinho flutuando" width="100%">
+</p>
+
 <br><br>
 
 <div align="center">
@@ -37,6 +41,10 @@ objetivo: Automatizar tarefas repetitivas, análise de dados, resolver problemas
 ## 🌐 Stack & Tecnologias
 
 <div align="center">
+
+<img src="URL_DO_SEU_GIF.gif" width="150"/>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,javascript,java,git,vscode&theme=light" />
 
